@@ -13,7 +13,7 @@ The paper presents a robust optimization approach for constructing confidence ba
 - Seaborn
 
 ## How to run the code
-In the current version, it is best to reproduce the experiments in an IDE (PyCharm, Spyder, ...), rather than through a terminal. To reproduce the results in
+In the current version, the best way to reproduce the experiments is within an IDE (PyCharm, Spyder, ...), rather than through a terminal. To reproduce the results in
 - "Section 5: Illustrative example," open `main_VAR.py` and execute the whole script;
 - "Section 6: Case Study," open `main_ErlangR.py` and execute the whole script.
 
