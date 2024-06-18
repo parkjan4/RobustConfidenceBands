@@ -24,5 +24,5 @@ For `main_ErlangR.py`, the current version assumes that pre-computed confidence 
 - `optimiztion_functions.py`: contains implementations of a Gurobi model and the bisection method.
 - `helper_functions.py`: contains auxiliary functions such as calculating coverage probabilities.
 - `Erlang_R.py`: simulation logic for the Erlang-R queue. Model parameters are extracted from [Yom-Tov and Mandelbaum (2014)](https://pubsonline-informs-org.myaccess.library.utoronto.ca/doi/abs/10.1287/msom.2013.0474).
-- Simulation classes and objects: `SimClasses.py`, `SimFunctions.py`, `SimRNG.py` (credit to [Barry Nelson](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nelson-barry.html)).
+- Simulation classes: `SimClasses.py`, `SimFunctions.py`, `SimRNG.py` (credit to [Barry Nelson](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nelson-barry.html)).
 - Data used in Section 6, extracted from [Yom-Tov and Mandelbaum (2014)](https://pubsonline-informs-org.myaccess.library.utoronto.ca/doi/abs/10.1287/msom.2013.0474): `MCE_cumulative_arrivals.csv`, `MCE_cumulative_departures.csv`.
