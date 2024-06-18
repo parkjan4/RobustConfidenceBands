@@ -15,7 +15,7 @@ The paper presents a robust optimization approach for constructing confidence ba
 ## How to run the code
 In the current version, it is best to reproduce the experiments in an IDE (PyCharm, Spyder, ...), rather than through a terminal. To reproduce the results in
 - "Section 5: Illustrative example," open `main_VAR.py` and execute the whole script;
-- "Section 6: Case Study", open `main_ErlangR.py` and execute the whole script.
+- "Section 6: Case Study," open `main_ErlangR.py` and execute the whole script.
 
 For `main_ErlangR.py`, the current version assumes that pre-computed confidence bands (e.g., `LBr_300_5` and `UBr_300_5`) exist within the same working directory. There is an option to re-solve for the confidence bands.
 
