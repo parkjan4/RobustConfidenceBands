@@ -19,6 +19,8 @@ In the current version, the best way to reproduce the experiments is within an I
 
 For `main_ErlangR.py`, the current version assumes that pre-computed confidence bands (e.g., `LBr_300_5` and `UBr_300_5`) exist within the same working directory. There is an option to re-solve for the confidence bands.
 
+If you are only interested in the robust optimization approach, please see `optimization_functions.py`.
+
 ## Other files
 - `VAR_functions.py`: contains functions for generating sample paths from a vector autoregressive (VAR) model. Model parameters are extracted from [Schuussler and Trede (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0165176516302178).
 - `optimiztion_functions.py`: contains implementations of a Gurobi model and the bisection method.
