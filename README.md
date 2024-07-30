@@ -1,4 +1,4 @@
-# Robust Confidence Bands for Simulation Output
+# Robust Confidence Bands for Stochastic Processes Using Simulation
 
 This is a repository for the working paper "Robust Confidence Bands for Stochastic Processes Using Simulation." The code here can be used to reproduce the experiments in the paper.
 
