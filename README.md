@@ -1,6 +1,6 @@
 # Robust Confidence Bands for Simulation Output
 
-This is a repository for the working paper "Robust Confidence Bands for Simulation Output." The code here can be used to reproduce the experiments in the paper.
+This is a repository for the working paper "Robust Confidence Bands for Stochastic Processes Using Simulation." The code here can be used to reproduce the experiments in the paper.
 
 ## Abstract
 We propose a robust optimization approach for constructing confidence bands for a general stochastic process using a finite number of simulated sample paths. Our methodology directly addresses optimization bias within the constraints, avoiding overly narrow confidence bands. Numerical experiments show that our approach achieves the desired coverage probabilities with an order-of-magnitude fewer sample paths than a non-robust approach. In a case study, we illustrate how our approach can be used to validate stochastic simulation models. 
